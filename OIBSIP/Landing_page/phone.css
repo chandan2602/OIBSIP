@@ -1,0 +1,13 @@
+@media ( max-width: 1200px){
+    .iphone{
+        position: static;
+        text-align: center;
+        transform: rotate(0);
+    }
+    h1{
+        text-align: center;
+    }
+    .title{
+        text-align: center;
+    }
+}

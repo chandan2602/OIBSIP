@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-link{
+    color:rgb(214, 236, 236);
+    font-size: 1.2rem;
+}
+.navbar-brand{
+    margin-left: 10px;
+    color:rgb(228, 238, 238);
+    font-size: 2.3rem;
+    font-weight: bolder;
+}
+#home{
+    background-color:#2E86C1 ;
+}
+.container-fluid{
+    padding:3% 15%
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+h1{
+    font-family: 'Montserrat';
+    font-weight: bolder;
+    font-size: 4.5rem;
+    line-height: 1.5;
+    color:#fff;
+}
+.navbar-brand,.nav-link{
+    font-family: 'Montserrat';
+    font-weight: bolder;
+}
+.nav-item{
+    padding:10px;
+}
+.navbar{
+    padding-bottom: 4rem;
+}
+.btn{
+    margin:5% 3% 5% 0%;
+}
+.iphone{
+    margin-left: 70px;
+    width: 23.5rem;
+  }
+.nav-link:hover{
+    color: #e1ced1;
+    cursor: pointer;
+}
+#feature{
+     padding: 7% 15%;
+     position: relative;
+     background-color: #fff;
+}
+.feture-box{
+    text-align: center;
+    padding:5%;
+}
+h3{
+    font-family: 'Montserrat-bold';
+    font-weight: bolder;
+}
+p{
+    font-family: 'Montserrat-bold';
+}
+.icon{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #ee093ed6;
+}
+.icon:hover{
+    color: #2E86C1 ;
+    font-size: 35px;
+    cursor: pointer;
+}
+p{
+    color:#8f8f8f;
+    font-size: 1.3rem;
+}
+#testimonial{
+    background-color:#2E86C1 ;
+    padding:7% 15%;
+    text-align: center;   
+}
+h2{
+    font-size: 3.5rem;
+    font-weight: bolder;
+    font-family: 'Montserrat-bold';
+    line-height: 1.5; 
+    color: #fff;
+}
+.testimonial-image{
+    width: 15%;
+    border-radius: 100%;
+    margin:20px;
+}
+em{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    font-family: 'Montserrat-bold';
+    color: #fff;
+}
+#press{
+    background-color: #2E86C1 ;
+    text-align: center;
+}
+.press-image{
+    padding: 3%;
+    width: 20%;
+}
+#priceing{
+    text-align: center;
+    padding: 75px;
+}
+.card-header{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    font-family: 'Montserrat-bold';
+}
+.price-head{
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    font-family: 'Montserrat-bold';
+}
+.price-subhead{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    font-family: 'Montserrat-bold';
+}
+.card-body{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bolder;
+    font-family: 'Montserrat-bold';
+}
+.dog-im{
+    width:20%;
+    border-radius: 100%;
+}
+/* #footer{
+    background-color:#2E86C1 ;
+    text-align: center;
+}
+.footer-section{
+    text-align: center;
+    color: #fff;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    padding: 1% 15%;
+    
+}
+.btn-footer{
+    margin-top: 10px;
+    margin-bottom: 8px;
+} */
+#social-site{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+.social-icon{
+    margin: 5px;
+    
+}
